@@ -1,0 +1,1 @@
+{"version":3,"file":"main.7d98118dc0cf7b48096d.bundle.js","sources":["webpack:///./src/utils/validate/email.js"],"sourcesContent":["export default function(v, msg) {\n\treturn !/^.+@.+\\..+$/.test(v) && msg;\n}\n"],"mappings":"AAAA","sourceRoot":""}
